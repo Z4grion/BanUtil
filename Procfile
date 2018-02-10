@@ -1,1 +1,1 @@
-web: sh run_heroku.sh 
+worker: sh run_heroku.sh 
